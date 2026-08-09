@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+.venv/
+
+# Environment secrets
+.env
+.env.*
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# User Uploads and local caches
+uploads/
+report.json
+report.md
+scratch/
+
+# OS metadata
+.DS_Store
+Thumbs.db
